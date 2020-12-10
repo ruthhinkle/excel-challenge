@@ -1,9 +1,9 @@
-# H1 Kickstarter Data Analysis
+# Kickstarter Data Analysis
 
 This is where I'll describe the project. 
 
-## H2 Conclusions
+## Conclusions
+This is where I'll describe 3 conclusions
 
-
-## H2 Limitations of the Dataset
-
+## Limitations of the Dataset
+This is where I'll share some limitations of the data
