@@ -5,7 +5,7 @@ This report analyzes 4114 Kickstarter projects between the years 2009 and 2017.
 ## Project Categories Matter
 Both the games and music stood out from other categories with 77% percent of those projects being funded. The next closest category was 17% less likely to be funded. The data doesn't explain why these projects tended to be more successful. In contrast, all journalism projects failed so consider other platforms or method for funding similar projects.
 
-## Don't Launch in December
+## Avoid December Project Launches
 Over 9 years, December showed the lowest counts of project success. In the same months, the numbers of failed and canceled projects also increased. This remained true across categories with the publishing category being the only major exception. One might speculate that holiday spending and/or giving means that households have less cash to spare on Kickstarter projects. Alternately, it may be tempting to look at the data and assume May is the best month to launch a project. However, the number of failed projects increase in May while canceled projects hold a steady rate. It would be more accurate to say more projects have launched historically in that month overall. 
 
 ## Third Category here
