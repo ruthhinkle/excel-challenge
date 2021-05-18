@@ -2,8 +2,15 @@
 
 This report analyzes 4114 Kickstarter projects between the years 2009 and 2017. 
 
-## Hope You're Making Games or Music
-Both the games and music stood out from other categories with 77% percent of those projects being funded. The next closest category was 17% less likely to be funded. The data doesn't explain why these projects tended to be more successful. In contrast, all journalism projects failed so consider other platforms or method for funding similar projects.
+## Most Successful Categories: Entertainment Wins
+The games and music categories stood out from the crowd with both being successfully funded 77% of the time. The next closest category was 17% less likely to be funded. 
+
+Of all the sub-categories, 12 of them earned the distinction of all projects being successfully funded. Be careful, though! Just because a sub-category is more likely to be funded, doesn't mean the parent category performs as well. 
+
+[!Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents.png)*
+
+
+[!Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/successful_categories.PNG)
 
 ## Avoid December Project Launches
 Over 9 years, December showed the lowest counts of project success. In the same months, the numbers of failed and canceled projects also increased. This remained true across categories with the publishing category being the only major exception. One might speculate that holiday spending and/or giving means that households have less cash to spare on Kickstarter projects. Alternately, it may be tempting to look at the data and assume May is the best month to launch a project. However, the number of failed projects increase in May while canceled projects hold a steady rate. It would be more accurate to say more projects have launched historically in that month overall. 
@@ -20,3 +27,5 @@ Per category, it would also be useful to see demographic data particularly locat
 
 ## Statistical Analysis
 The high level of variance demonstrates the values in this dataset are spread out, thus indicating that the median is a more useful summary of this dataset. Successful campaigns have a higher level of variance than unsuccessful campaigns. This makes sense – failed campaigns had fewer backers on average while successful campaigns were able to meet the goal with a wide range of backers. Some projects were able to meet their goal with a small number of backers while others were successful by attracting large numbers of backers. 
+
+*Design made on Canva.
