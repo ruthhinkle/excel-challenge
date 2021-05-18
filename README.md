@@ -1,5 +1,3 @@
-TEST
-
 ![Uncovering Project Trends: Kickstarter](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/header-image.png)
 
 ## Description
