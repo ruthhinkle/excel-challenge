@@ -7,7 +7,7 @@ The games and music categories stood out from the crowd with both being successf
 
 Of all the sub-categories, 12 of them earned the distinction of all projects being successfully funded. Be careful, though! Just because a sub-category is more likely to be funded, doesn't mean the parent category performs as well. 
 
-![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents.png)*
+![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents-edit.png)*
 
 
 ![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/successful_categories.PNG)
