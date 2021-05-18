@@ -1,19 +1,21 @@
 # Kickstarter Data Analysis
 
-This report analyzes 4114 Kickstarter projects between the years 2009 and 2017. 
+I analyzed 4114 Kickstarter projects between 2009 and 2017 to uncover hidden trends for future project designers. 
 
-## Most Successful Categories: Entertainment Wins
+## Music & Games Lead the Pack
 The games and music categories stood out from the crowd with both being successfully funded 77% of the time. The next closest category was 17% less likely to be funded. 
 
-Of all the sub-categories, 12 of them earned the distinction of all projects being successfully funded. Be careful, though! Just because a sub-category is more likely to be funded, doesn't mean the parent category performs as well. 
+Of all the sub-categories, 12 of them earned the distinction of 100% of attempted projects being successfully funded. Be careful, though! Just because a sub-category is more likely to be funded, doesn't mean the parent category performs as well. 
 
-![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents-edit.png)*
+![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents-edit.png)
 
-
-![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/successful_categories.PNG)
 
 ## Avoid December Project Launches
-Over 9 years, December showed the lowest counts of project success. In the same months, the numbers of failed and canceled projects also increased. This remained true across categories with the publishing category being the only major exception. One might speculate that holiday spending and/or giving means that households have less cash to spare on Kickstarter projects. Alternately, it may be tempting to look at the data and assume May is the best month to launch a project. However, the number of failed projects increase in May while canceled projects hold a steady rate. It would be more accurate to say more projects have launched historically in that month overall. 
+Over 9 years, December project launches had the lowest counts of project success. In the same month, the counts of failed and canceled projects increased. It's possible that households have less cash to spare given holiday spending and end-of-year giving.
+
+Based on the data, it's tempting to assume that May is the opposite of December. The big spike in project success, however, is accompanied by increases in failed and canceled projects. It would be more accurate to say that May is the more popular month for launches and all outcomes increase as a result.  
+
+![Outcomes by Launch Month](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/success-by-month.png)
 
 ## The Bigger the Goal, the Riskier the Project
 Overall, project success trended downward as the dollar amount of the goal increased. Projects with a goal under $1000 were 70% successful while projects with a goal above $50,000 were only 19% successful. 
@@ -28,4 +30,4 @@ Per category, it would also be useful to see demographic data particularly locat
 ## Statistical Analysis
 The high level of variance demonstrates the values in this dataset are spread out, thus indicating that the median is a more useful summary of this dataset. Successful campaigns have a higher level of variance than unsuccessful campaigns. This makes sense – failed campaigns had fewer backers on average while successful campaigns were able to meet the goal with a wide range of backers. Some projects were able to meet their goal with a small number of backers while others were successful by attracting large numbers of backers. 
 
-*Design made on Canva.
+<em>All visual design made on Canva.</em>
