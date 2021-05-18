@@ -1,6 +1,8 @@
-# Kickstarter Data Analysis
+![Uncovering Project Trends: Kickstarter](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/header-image.png)
 
-I analyzed 4114 Kickstarter projects between 2009 and 2017 to uncover hidden trends for future project designers. 
+## Description
+
+I analyzed 4114 Kickstarter projects between 2009 and 2017 to uncover hidden trends for future project designers. This analysis is not intended to be shared on behalf of Kickstarter, just an exploration of my own. 
 
 ## Music & Games Lead the Pack
 The games and music categories stood out from the crowd with both being successfully funded 77% of the time. The next closest category was 17% less likely to be funded. 
