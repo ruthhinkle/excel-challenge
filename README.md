@@ -22,7 +22,7 @@ Based on the data, it's tempting to assume that May is the opposite of December.
 ## The Bigger the Goal, the Riskier the Project
 Overall, project success trended downward as the dollar amount of the goal increased. Projects with a goal under $1000 were 70% successful while projects with a goal above $50,000 were only 19% successful. 
 
-![Outcomes by Goal Amount](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/success-by-month.png)
+![Outcomes by Goal Amount](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/outcome-by-amount.png)
 
 ## What about the backers?
 This data does not analyze one of Kickstarter's defining features, which is the levels of rewards for project backers. Backers contribute to projects at increasing levels of funding which unlock increasing reward values. As a former fundraiser, I want to know the number of reward levels and the distribution of backers among those levels. This might tease up best practices for choosing the number and scale of reward levels. 
