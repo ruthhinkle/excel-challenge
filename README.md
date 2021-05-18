@@ -7,10 +7,10 @@ The games and music categories stood out from the crowd with both being successf
 
 Of all the sub-categories, 12 of them earned the distinction of all projects being successfully funded. Be careful, though! Just because a sub-category is more likely to be funded, doesn't mean the parent category performs as well. 
 
-[!Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents.png)*
+![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/subcats-vs-parents.png)*
 
 
-[!Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/successful_categories.PNG)
+![Successful Project Categories](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/successful_categories.PNG)
 
 ## Avoid December Project Launches
 Over 9 years, December showed the lowest counts of project success. In the same months, the numbers of failed and canceled projects also increased. This remained true across categories with the publishing category being the only major exception. One might speculate that holiday spending and/or giving means that households have less cash to spare on Kickstarter projects. Alternately, it may be tempting to look at the data and assume May is the best month to launch a project. However, the number of failed projects increase in May while canceled projects hold a steady rate. It would be more accurate to say more projects have launched historically in that month overall. 
