@@ -34,4 +34,6 @@ Per category, it would also be useful to see demographic data particularly locat
 ## Statistical Analysis
 The high level of variance demonstrates the values in this dataset are spread out, thus indicating that the median is a more useful summary of this dataset. Successful campaigns have a higher level of variance than unsuccessful campaigns. This makes sense – failed campaigns had fewer backers on average while successful campaigns were able to meet the goal with a wide range of backers. Some projects were able to meet their goal with a small number of backers while others were successful by attracting large numbers of backers. 
 
-<em>All visual design made on Canva.</em>
+### Tools
+* Microsoft Excel
+* Canva
