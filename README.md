@@ -30,9 +30,9 @@ The high level of variance demonstrates the values in this dataset are spread ou
 ![Analysis of Backers](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/backer-analysis.png)
 
 ## 🏆 What about the reward levels?
-This data does not analyze one of Kickstarter's defining features, which is the levels of rewards for project backers. Backers contribute to projects at increasing levels of funding which unlock increasing reward values. As a former fundraiser, I want to know the number of reward levels and the distribution of backers among those levels. This might tease up best practices for choosing the number and scale of reward levels. 
+This data does not analyze one of Kickstarter's defining features, which is the levels of rewards for project backers. Backers contribute to projects at increasing levels of funding which unlock increasing reward values. As a former fundraiser, I want to know the number of reward levels and the distribution of backers among those levels. This might tease out best practices for choosing the number and scale of reward levels. 
 
-For example, 100% of tabletop games were funded in this dataset. Based on my own experience as a backer and without seeing any data, I'd hypothesize that most backers chose a reward level that included a copy of the game. I'd expect the distribution of backers to be clustered around that reward level. Based on my knowledge of fundraising for the arts, I imagine that plays would have a handful of high level backers with more backers clustered around lower reward levels regardless of the actual reward.
+For example, 100% of tabletop games were funded in this dataset. Based on my own experience as a backer and without seeing any data, I'd hypothesize that most backers chose a reward level that included a copy of the game. I'd expect the distribution of backers to be clustered around that reward level. 
 
 Per category, it would also be useful to see demographic data particularly location and income for the backers of these projects to get a sense of where to promote them in online spaces. 
 
