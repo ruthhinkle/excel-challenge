@@ -34,9 +34,6 @@ This data does not analyze one of Kickstarter's defining features, which is the 
 
 For example, 100% of tabletop games were funded in this dataset. Based on my own experience as a backer and without seeing any data, I'd hypothesize that most backers chose a reward level that included a copy of the game. I'd expect the distribution of backers to be clustered around that reward level. 
 
-Per category, it would also be useful to see demographic data particularly location and income for the backers of these projects to get a sense of where to promote them in online spaces. 
-
-
 
 ### 🔧 Tools
 * Microsoft Excel
