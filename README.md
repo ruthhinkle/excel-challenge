@@ -24,6 +24,11 @@ Overall, project success trended downward as the dollar amount of the goal incre
 
 ![Outcomes by Goal Amount](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/outcome-by-amount.png)
 
+## Project Backers
+The high level of variance demonstrates the values in this dataset are spread out, thus indicating that the median is a more useful summary of this dataset. Successful campaigns have a higher level of variance than unsuccessful campaigns. This makes sense – failed campaigns had fewer backers on average while successful campaigns were able to meet the goal with a wide range of backers. Some projects were able to meet their goal with a small number of backers while others were successful by attracting large numbers of backers. 
+
+![Analysis of Backers](https://github.com/ruthhinkle/kickstarter-analysis/blob/main/Images/backer-analysis.png)
+
 ## What about the backers?
 This data does not analyze one of Kickstarter's defining features, which is the levels of rewards for project backers. Backers contribute to projects at increasing levels of funding which unlock increasing reward values. As a former fundraiser, I want to know the number of reward levels and the distribution of backers among those levels. This might tease up best practices for choosing the number and scale of reward levels. 
 
@@ -31,8 +36,7 @@ For example, 100% of tabletop games were funded in this dataset. Based on my own
 
 Per category, it would also be useful to see demographic data particularly location and income for the backers of these projects to get a sense of where to promote them in online spaces. 
 
-## Statistical Analysis
-The high level of variance demonstrates the values in this dataset are spread out, thus indicating that the median is a more useful summary of this dataset. Successful campaigns have a higher level of variance than unsuccessful campaigns. This makes sense – failed campaigns had fewer backers on average while successful campaigns were able to meet the goal with a wide range of backers. Some projects were able to meet their goal with a small number of backers while others were successful by attracting large numbers of backers. 
+
 
 ### Tools
 * Microsoft Excel
